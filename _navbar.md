@@ -1,0 +1,23 @@
+<!-- _navbar.md -->
+
+* Languages
+  * [English](/)
+  * [Italian](/it/)
+  * [Polish](/pl/)
+  * [Spanish](/es/)
+  * [Русский](/ru/)
+  * [日本語](/ja/)
+  * [Français](/fr/)
+  * [한국어](/ko/)
+  * [Indonesia](/id/)
+  * [Հայերեն](/hy/)
+  * [Deutsch](/de/)
+  * [ไทย](/th/)
+  * [Ukrainian - Українська](/uk/)
+  * [Belarusian - Беларуская](/be/)
+  * [Türkçe](/tr/)
+  * [Nederlands](/nl/)
+  * [Malayalam - മലയാളം](/ml/)
+  * [Português Brasileiro](/pt-br/)
+  * [简体中文](/zh-hans/)
+  * [繁體中文](/zh-hant/)
